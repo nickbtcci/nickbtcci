@@ -32,8 +32,8 @@ Aqui a cobrinha comendo os commits que eu faço enquanto o café não acaba:
 ### 📈 Estatísticas de Sobrevivência:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USUARIO_DO_BUCCHI&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO_DO_BUCCHI&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nickbtcci&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickbtcci&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
@@ -48,5 +48,5 @@ Aqui a cobrinha comendo os commits que eu faço enquanto o café não acaba:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USUARIO_DO_BUCCHI&color=ff69b4&style=flat-square&label=VÍTIMAS_QUE_VISITARAM" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=nickbtcci&color=ff69b4&style=flat-square&label=VÍTIMAS_QUE_VISITARAM" alt="Views" />
 </p>
